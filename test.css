@@ -1,0 +1,18 @@
+h1 {
+  color: green
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+
+#main-header {
+  font-size: xx-large;
+  color: blueviolet;
+}
+
+body {
+  font-family: 'Oswald', sans-serif;
+  background: url(https://images.unsplash.com/photo-1519751138087-5bf79df62d5b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FyZCUyMGJhY2tncm91bmR8ZW58MHx8MHx8&w=1000&q=80)
+}
